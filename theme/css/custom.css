@@ -1,0 +1,84 @@
+p {
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  color: #555;
+  text-shadow: transparent 0px 0px 0px, rgba(0,0,0,0) 0px 0px 0px !important;
+}
+
+a {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+h4 {
+  font-size: 17px;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 400;
+  margin-top: 8px;
+  width: 100%;
+  float: left;
+  padding-left: 7px;
+  border-left: 8px solid #ccc;
+  color: #333;
+  text-shadow: transparent 0px 0px 0px, rgba(0,0,0,0) 0px 0px 0px !important;
+}
+
+h2 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 400;
+  color: #333;
+  text-shadow: transparent 0px 0px 0px, rgba(0,0,0,0) 0px 0px 0px !important;
+}
+
+h1 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 400;
+  color: #333;
+  text-shadow: transparent 0px 0px 0px, rgba(0,0,0,0) 0px 0px 0px !important;
+}
+
+.navbar-icon {
+  background-image: url('../img/logo64.png');
+  width: 30px;
+  height: 30px;
+  float: left;
+  background-size: contain;
+  background-clip: content-box;
+  margin-top: 9px;
+  margin-bottom: 11px;
+  margin-left: 15px;
+  margin-right: 8px;
+}
+
+.navbar-home-link {
+  float:left;
+}
+
+.navbar-default .navbar-nav li a:hover,
+.navbar-header a:hover {
+  background-color: #eee;
+}
+
+.bs-sidebar .nav li a:hover {
+  border: 0px solid #fff;
+}
+
+.bs-sidebar .nav .active a {
+  background-color: #428bca;
+  color: #fff;
+  text-decoration: none;
+  font-weight: normal;
+  border: 0px solid #fff;
+}
+
+.bs-sidebar .nav .active a:hover {
+  background-color: #428bca;
+  color: #fff;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+.gitter-chat-embed {
+  top: 50px;
+}

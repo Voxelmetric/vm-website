@@ -1,0 +1,14 @@
+site_name: Voxelmetric
+site_url: http://voxelmetric.net/
+repo_url: https://github.com/voxelmetric/voxelmetric2/
+site_description: Voxelmetric - open source voxel framework for Unity
+
+theme_dir: theme
+docs_dir: content
+site_dir: site
+
+pages:
+- 'Home': 'index.md'
+- Documentation:
+    - 'Introduction': 'docs/index.md'
+    - 'Overview': 'docs/overview.md'
